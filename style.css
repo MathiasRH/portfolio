@@ -1,0 +1,46 @@
+#splash {
+    background-image: url(forside.png);
+    background-size: cover;
+    width: 98vw;
+    height: 106vh;
+}
+
+nav a {
+    font-family: 'Francois One', sans-serif;
+    color: white;
+    font-size: 20px;
+    text-decoration: overline;
+    margin-left: 50px;
+}
+
+nav {
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#forside nav {
+    background-color: #E60000
+}
+
+#om {
+    background-color: #E60000;
+}
+
+h1 {
+    color: white;
+    font-family: 'Francois One', sans-serif;
+    margin-left: 10px;
+}
+
+p {
+    color: white;
+    font-family: 'Francois One', sans-serif;
+    margin-left: 10px;
+}
+
+@media only screen and (max-width: 1200px) {
+
+    #splash {
+        background-image: url(forsidemobil.png);
+        background-color: #E60000;
+    }
