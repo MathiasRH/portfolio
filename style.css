@@ -82,6 +82,7 @@ p {
     #splash {
         background-image: url(forsidemobil.png);
         background-color: #E60000;
+        width: 100%;
     }
 
     @media only screen and (max-width: 600px) {
