@@ -27,6 +27,11 @@ nav a {
     margin-left: 50px;
 }
 
+#sectionwrapper {
+    background-color: #E60000;
+    border-top: solid 1px white;
+}
+
 nav {
     justify-content: space-between;
     flex-wrap: wrap;
@@ -75,6 +80,57 @@ p {
     margin-left: 10px;
 }
 
+a:hover {
+    color: lightgrey;
+}
+
+#tema1 a {
+    font-family: 'Francois One', sans-serif;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+#tema1 a:hover {
+    color: lightgrey;
+}
+
+#tema2 a {
+    font-family: 'Francois One', sans-serif;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+#tema2 a:hover {
+    color: lightgrey;
+}
+
+#tema3 a {
+    font-family: 'Francois One', sans-serif;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+#tema3 a:hover {
+    color: lightgrey;
+}
+
+#tema4 a {
+    font-family: 'Francois One', sans-serif;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+#tema4 a:hover {
+    color: lightgrey;
+}
 
 
 @media only screen and (max-width: 1200px) {
