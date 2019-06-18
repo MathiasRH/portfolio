@@ -7,9 +7,9 @@ img {
 }
 
 #splash {
-    background-image: url(forside.png);
+    background-image: url(forside2.png);
     background-size: cover;
-    width: 96vw;
+    width: 100vw;
     height: 106vh;
 }
 
@@ -213,7 +213,7 @@ a:hover {
 @media only screen and (max-width: 1200px) {
 
     #splash {
-        background-image: url(forsidemobil.png);
+        background-image: url(forsidemobil2.png);
         background-color: #E60000;
         width: 100%;
     }
